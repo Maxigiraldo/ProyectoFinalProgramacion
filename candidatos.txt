@@ -1,0 +1,6 @@
+1,Luis Fernando Gaviria Trujillo,17,1,0,2,0,0,1.
+2,Carlos Alfonso Victoria Mena,17,1,0,6,0,0,1.
+3,Giovanni Arias,5,1,1,0,2,0,0.
+4,Xiomara Rocío González Ordoñez,3,1,0,0,0,0,0.
+5,Alexander Molina Cabrera,17,2,5,0,2,0,1.
+6,Juan Carlos Gutiérrez Arias,7,1,5,0,0,0,0.

@@ -1,0 +1,9 @@
+1,Ministro_Educacion,pass1,1.
+2,Gobernador_Risaralda,pass2,1.
+3,Miembro_Presidente,pass3,1.
+4,Representante_Directivas,pass4,1.
+5,Representante_Docentes,pass5,1.
+6,Representante_Estudiantes,pass6,1.
+7,Representante_Egresados,pass7,1.
+8,Representante_Sector_Productivo,pass8,1.
+9,Exrector_UTP,pass9,1.
